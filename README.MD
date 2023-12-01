@@ -17,4 +17,5 @@ One of the immense benefits of the cloud is the ability to automate lengthy task
 ![Onbaord_automator](images/Completed_onboard.png)
 
 <br>
-![Here is a link explaining this workflow in detail](https://ochuwilliams.hashnode.dev/employee-onboard-automator-using-azure-logic-apps)
+
+![Onbaord_automator](https://ochuwilliams.hashnode.dev/employee-onboard-automator-using-azure-logic-apps)
